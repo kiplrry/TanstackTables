@@ -3,6 +3,9 @@
 
 This is a simple project demonstrating a basic implementation of data tables using the [React TanStack Table](https://tanstack.com/table/v8) library. The project includes a table component with features like sorting, filtering, and pagination, allowing users to interact with data easily.
 
+![ScreenShot](./image.png)
+
+
 
 
 ## Features
